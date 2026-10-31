@@ -66,4 +66,7 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+<<<<<<< HEAD
 .vscode/
+=======
+>>>>>>> 5e120ea978fabdf37024615630df9c51addb3fc0
